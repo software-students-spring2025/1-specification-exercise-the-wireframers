@@ -4,7 +4,7 @@ A little exercise to get started with the specification phase of the software de
 
 ## Team members
 
-See instructions. Delete this line and replace with a list of the names of your team members, including links to each one's GitHub profile.
+<a href = 'https://github.com/AnnaTheYe'> Anna Ye </a> <a href = 'https://github.com/andrew-bao'> Andrew Bao </a> <a href = 'https://github.com/yd2960'> Johnny Ding </a> <a href = 'https://github.com/alw9411'> Alex Wang </a>
 
 ## Stakeholders
 
