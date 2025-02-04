@@ -31,7 +31,7 @@ Needs:
 
 ## Product Vision Statement
 
-See instructions. Delete this line and place your Product Vision Statement here.
+We hope to create a product that makes sightreading more accessible to everyone, from the beginner to the master, by providing excerpts of real pieces of varying styles with customizable difficulty and providing feedback to our users, eliminating some of the major inconvenience in practicing sightreading. 
 
 ## User Requirements
 
