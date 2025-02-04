@@ -8,7 +8,26 @@ A little exercise to get started with the specification phase of the software de
 
 ## Stakeholders
 
-See instructions. Delete this line and replace with the name(s) of the stakeholder(s) you interviewed and lists showing their goals/needs, and problems/frustrations.
+Stakeholder Names:
+- Kevin Ye
+- Ray Ochotta
+
+Goals:
+- Obtain certifications for instruments (e.g. piano)
+- Prepare for sightreading auditions
+- Become a better musician
+
+Problems:
+- Practicing sightreading is inconvenient
+- Books are required for sightreading
+- The difficulty doesn't scale, so as you get better you need to buy more books
+- A large number of exercises are needed
+
+Needs:
+- Ability to automatically adjust difficulty
+- Ability to playback sample of music you played
+- Ability to focus on specific techniques
+- Large amount of possible sightreading samples
 
 ## Product Vision Statement
 
