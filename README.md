@@ -35,7 +35,16 @@ We hope to create a product that makes sightreading more accessible to everyone,
 
 ## User Requirements
 
-See instructions. Delete this line and place a list of your User Stories here.
+As a music teacher, I want to generate random excerpts of music, so I can help my students practice.
+As a piano player, I want to practice more pieces in F# major, so I can more easily learn future pieces in that key.
+As a parent, I want to give automatically generated feedback, so my child can improve even when I'm not there to help.
+As a hobbyist guitarist, I want to play more pieces in general, so I can build intuition for how the guitar works.
+As a drummer, I want to practice exercises with triplets, so I am more familiar with their rhythm.
+As a substitute instrumentalist, I need a way to practice sight reading full length symphonies, so I can be ready to play unfamiliar orchestra pieces
+As a auditioning musician, I need to be able to randomly select pieces to sight read, so I can simulate my audition
+As a new musician who does not know how to sight read, I want to start with simple practices so that I can better practice my skills.
+As a music student who is improving, I need to be able to modulate the difficulty of my exercises, so the music can follow my growth.
+As a freelance musician, I need to be able to choose which type of music to practice sightreading, so I can play many different styles of music.
 
 ## Activity Diagrams
 
