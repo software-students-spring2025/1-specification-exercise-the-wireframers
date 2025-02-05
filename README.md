@@ -29,7 +29,8 @@ Problems:
 - Existing sight reading practice pieces are often shorter than real-life sightreading situations
 
 Needs:
-- Ability to adjust difficulty
+- Ability to adjust difficulty, instrument, key signature, time signature, available rhythms, music genre, and tempo
+
 - Ability to playback sample of music you played
 - Ability to automatically grade performance
 - Ability to focus on specific techniques
@@ -38,7 +39,10 @@ Needs:
 
 ## Product Vision Statement
 
+We hope to create a product that makes sightreading more accessible to everyone, from the beginner to the master, by providing excerpts of real pieces of varying styles with customizable difficulty and providing feedback to our users, eliminating some of the major inconvenience in practicing sightreading.
+
 We hope to create a product that makes sightreading more accessible to everyone, from the beginner to the master, by providing excerpts of real pieces of varying styles with customizable difficulty and providing feedback to our users, eliminating some of the major inconvenience in practicing sightreading. 
+
 
 ## User Requirements
 
