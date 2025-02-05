@@ -35,7 +35,7 @@ We hope to create a product that makes sightreading more accessible to everyone,
 
 ## User Requirements
 
-- As a music teacher, I want to generate random excerpts of music, so I can help my students practice.
+- As a music teacher, I want to pull random excerpts of music, so I can help my students practice.
 - As a piano player, I want to practice more pieces in F# major, so I can more easily learn future pieces in that key.
 - As a parent, I want to give automatically generated feedback, so my child can improve even when I'm not there to help.
 - As a hobbyist guitarist, I want to play more pieces in general, so I can build intuition for how the guitar works.
