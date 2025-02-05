@@ -29,7 +29,7 @@ Problems:
 - Existing sight reading practice pieces are often shorter than real-life sightreading situations
 
 Needs:
-- Ability to adjust difficulty
+- Ability to adjust difficulty, instrument, key signature, time signature, available rhythms, music genre, and tempo
 - Ability to playback sample of music you played
 - Ability to automatically grade performance
 - Ability to focus on specific techniques
