@@ -65,4 +65,4 @@ See instructions. Delete this line and place images of your UML Activity diagram
 
 ## Clickable Prototype
 
-See instructions. Delete this line and place a publicly-accessible link to your clickable prototype here.
+<a href = 'https://www.figma.com/design/Nq1KddFT8eQE6dysNNOWDV/The-Wireframers----Sightreading-Helper?node-id=0-1&t=KyAyid3MJxaJaNXx-1'>Clickable Prototype Link</a>
