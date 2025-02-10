@@ -61,7 +61,7 @@ We hope to create a product that makes sightreading more accessible to everyone,
 
 ## Activity Diagrams
 
-See instructions. Delete this line and place images of your UML Activity diagrams here.
+![UML Diagram](UML_Diagram.drawio.png)
 
 ## Clickable Prototype
 
